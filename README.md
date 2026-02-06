@@ -1,6 +1,7 @@
 # Learning neighbor-enhanced region representations and question-guided visual representations for visual question answering
 
 This repository contains the code for the paper "Learning neighbor-enhanced region representations and question-guided visual representations for visual question answering". 
+[Ling Gao](https://scholar.google.com.hk/citations?user=tl-cCNUAAAAJ&hl=zh-CN), Hongda Zhang, [Nan Sheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=MeSogXgAAAAJ), [Lida Shi](https://scholar.google.com.hk/citations?hl=zh-CN&user=YeIW0-kAAAAJ), [Hao Xu](https://scholar.google.com.hk/citations?hl=zh-CN&user=9KW7Z-oAAAAJ&view_op=list_works&citft=1&email_for_op=linggaosn%40gmail.com&gmla=APjjwubRWee5ung3FZm67Qd6MH2EgXbxI_InHdqnSIJBqveyVJNsf2TcNA9kfGaq_EvBhGjza64fi4NDiGQKWs9q2mBWjLxjTSSRZwLdMyHH5DHvxB9vXIP_JeZsQvaiMhjsBsDAqJ5iP2PbR73bftvMHayw8yTSKLvkmhvHN5q133Z37W5xSEvozaI5V1OOgoAa4M0g4AOVUDqM1dVDV-0yjNhkZ9Wrl3gcR6mlNy-S8H9k83t9w0LhnOmV)
 
 ## Abstract
 
